@@ -1,0 +1,19 @@
+{
+  "name": "faas-track",
+  "version": "1.0.0",
+  "description": "A fitness social media platform for monetizing digital training content",
+  "main": "index.js",
+  "packageManager": "npm@10.8.2",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fitness"
+  ],
+  "author": "Trevor McCasland",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
